@@ -1,6 +1,6 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FluffyRudy)](https://github.com/FluffyRudy/github-readme-stats)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FluffyRudy)](https://github.com/FluffyRudy/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FluffyRudy)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FluffyRudy)]
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FluffyRudy)]
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FluffyRudy)]
 
 ### Hi there 👋
 🌱 I’m currently learning React and NodeJS
