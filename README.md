@@ -1,5 +1,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FluffyRudy)](https://github.com/FluffyRudy/github-readme-stats)
-![Stats](https://raw.githubusercontent.com/FluffyRudy/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ### Hi there 👋
 
 
