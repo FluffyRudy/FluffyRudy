@@ -1,4 +1,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FluffyRudy)](https://github.com/FluffyRudy/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FluffyRudy)](https://github.com/FluffyRudy/github-readme-stats)
+
 ### Hi there 👋
 
 
