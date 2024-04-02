@@ -1,0 +1,16 @@
+name: Generate Snake game from the contribution graph
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          svg_out_path: dist/github-snake.svg
+          gif_out_path: dist/github-snake.gif
