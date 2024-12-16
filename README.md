@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# (https://gitlab.com/FluffyRudy/)[gitlab] Visit gitlab as no longer i will be using github
+# Visit gitlab as no longer i will be using github
+(https://gitlab.com/FluffyRudy/)[gitlab]
