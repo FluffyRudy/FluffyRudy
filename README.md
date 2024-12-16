@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 # Visit gitlab as no longer i will be using github because i completely lost access to it and github team hasnt responded yet.
 [Visit GitLab](https://gitlab.com/FluffyRudy/)
-
+https://gitlab.com/FluffyRudy/
