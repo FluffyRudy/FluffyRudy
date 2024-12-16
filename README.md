@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Visit gitlab as no longer i will be using github
-(https://gitlab.com/FluffyRudy/)[gitlab]
+[Visit GitLab](https://gitlab.com/FluffyRudy/)
+
